@@ -13,9 +13,16 @@ body{
     margin: 0 auto;
 }
 
-h2 {
+h2{
     color: #fff;
     font-size: 1.8rem;
     text-decoration: darkorange underline;
+    text-align: center;
+}
+
+h3{
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: indianred underline;
     text-align: center;
 }
