@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="maluco" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +54,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "maluco",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697132459023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="h4">
+      <option name="closed" value="true" />
+      <created>1697132751056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697132751056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
     <MESSAGE value="h2 color e font size" />
     <MESSAGE value="Decorações do background" />
     <MESSAGE value="h2 e body included" />
-    <option name="LAST_COMMIT_MESSAGE" value="h2 e body included" />
+    <MESSAGE value="h4" />
+    <option name="LAST_COMMIT_MESSAGE" value="h4" />
   </component>
 </project>
