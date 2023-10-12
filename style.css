@@ -6,7 +6,7 @@ h1{
 
 }
 
-body{
-    background: linear-gradient(darkorange, black);
-    background-attachment: fixed;
+h2{
+    color: aqua;
+    font-size: 1.8rem;
 }
