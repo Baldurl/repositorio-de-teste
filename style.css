@@ -18,3 +18,10 @@ h2{
     text-decoration: darkorange underline;
     text-align: center;
 }
+
+h3{
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: indianred underline;
+    text-align: center;
+}
