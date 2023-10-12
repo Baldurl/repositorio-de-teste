@@ -11,5 +11,11 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
     margin: 0 auto;
+}
 
+h2 {
+    color: #fff;
+    font-size: 1.8rem;
+    text-decoration: darkorange underline;
+    text-align: center;
 }
